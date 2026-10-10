@@ -10,7 +10,7 @@ database_id = "99ade8c3-70d3-4dea-8ed4-242cbce9d3d8"
 
 # 环境变量
 [vars]
-TELEGRAM_BOT_TOKEN = "8810185013:AAFBwajYLlz5EcTdxOHUPxngEloJ5fLjqRIe"
+TELEGRAM_BOT_TOKEN = "8810185013:AAFBwajYLlz5EcTdxOHUPxngEloJ5fLjqRI"
 
 # Cron触发器 (每10分钟检查一次RSS)
 [triggers]
